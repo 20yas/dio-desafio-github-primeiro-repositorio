@@ -1,0 +1,4 @@
+Link de download do Git: https://git-scm.com/downloads
+O Git é um sistema de código que consegue criar e editar outros projetos.
+O Git apresenta alguns tópicos fundamentais, sendo um deles o Sha1. Além disso, temos os objetivos internos, que são: Blobs, Trees e commits
+
